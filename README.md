@@ -6,5 +6,4 @@ The example shown here was made for the Department of Language and Literacy Educ
 
 ##Note
 
->Content shall be added soon. Check back here in the week of 14 March 2016.
-Thank you for your interest.
+Paste contents of the html into your web page. Paste contents of the CSS file into your own stylesheet. The CSS file here is **not** a file referenced by the html file.
